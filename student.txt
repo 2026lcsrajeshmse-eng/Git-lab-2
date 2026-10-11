@@ -1,4 +1,0 @@
-Name      : Rajesh M S
-USN       : 2026LCS042
-Subject   : DevOps
-Experiment: Git operations 
